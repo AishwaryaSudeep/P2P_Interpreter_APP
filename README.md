@@ -10,5 +10,5 @@ Steps to run the program:
     - gTTS
 2. Run p2p.py on different terminals to generate new peers
 3. Sample .wav and .txt file provided under server_files to implement the following:
-    - 2. To share recorded audio file 
-    - 4. To share pre-existing text file
+    - 2.To share recorded audio file 
+    - 4.To share pre-existing text file
